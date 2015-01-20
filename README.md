@@ -1,5 +1,7 @@
 # MongoDB.app
 
+TODO: change  
+  self.task.arguments = ["--dbpath", self.dataPath]
 ### The easiest way to get started with MongoDB on the Mac.
 _Just download, drag to the applications folder, and double-click._
 
